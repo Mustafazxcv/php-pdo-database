@@ -1,2 +1,2 @@
 # php-pdo-database
-PHP pdo sürümü ile sql veritabanı bağlantısı
+PHP PDO Sürümü İle SQL Veritabanı Bağlantısı 
